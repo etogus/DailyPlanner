@@ -8,7 +8,7 @@ Example:<br/><br/>
 > 4) Missed tasks<br/>
 > 5) Add a task<br/>
 > 6) Delete a task <br/>
-> 0) Exit<br/><br/>
+> 0) Exit<br/>
 
 4
 

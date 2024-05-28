@@ -1,4 +1,6 @@
-<p>A to-do list to improve your work and personal life. </p><br/>
+<p>A to-do list app that will help you manage your tasks. </p><br/>
+
+<p>Used: Python, datetime module, SQLAlchemy and SQLite database.</p><br/>
 
 Example:<br/><br/>
 

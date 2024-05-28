@@ -53,6 +53,7 @@ Example:<br/><br/>
 > 5) Add a task<br/>
 > 6) Delete a task<br/>
 > 0) Exit<br/>
-> 0<br/><br/>
+
+0
 
 > Bye!

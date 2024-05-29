@@ -18,7 +18,7 @@ def show_menu():
 
 
 # Set up the SQLite database
-engine = create_engine('sqlite:///todo.db?check_same_thread=False')
+engine = create_engine('sqlite:///todo.db')
 Base = declarative_base()
 
 
